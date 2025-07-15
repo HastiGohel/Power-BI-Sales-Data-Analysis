@@ -89,3 +89,4 @@ This Power BI project analyzes and transforms sales data using various data clea
 
 - 👩 **Hasti Gohel**  
 - GitHub: [HastiGohel](https://github.com/HastiGohel)
+- LinkedIn : [HastiGohel](https://www.linkedin.com/in/hasti-gohel1527/)
